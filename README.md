@@ -1,25 +1,29 @@
 # PROJECT MANAJEMEN TUGAS 📚
----
-Sekelompok mahasiswa dari Universitas Brawijaya yang terdiri dari 5 orang, yaitu:
----
-    🔹Akbar Bintang Kusuma-245150307111050
-    🔹Stefanus Evan Anggawardhana-245150307111039
-    🔹M. Dzakwan Ikram-245150301111019
-    🔹Samuel Putra Halomoan Silitonga-245150307111049
-    🔹Lutfi Maulana-245150301111021
----
-Sedang mengerjakan tugas dari asisten praktikum. Tapi mereka tidak bisa menyelesaikan tugasnya karena tidak bisa mensortir tugas mereka yang sudah selesai dan belum selesai. Mereka membutuhkan sebuah aplikasi untuk membantu mereka dalam mengelola tugas mereka. Mereka membutuhkan aplikasi yang dapat menampilkan daftar tugas yang sudah selesai dan belum selesai, serta dapat menambahkan, mengubah, dan menghapus tugas.
-Maka dari itu, mereka menyusun rencana agar bisa mengelola tugas mereka secara rapi dan tercatat dengan baik dengan Algoritma Struktur Data menggunakan metode QUEUE. Mereka akan membuat sebuah aplikasi yang dapat membantu mereka dalam mengelola tugas mereka.
 
+---
+## 📚📖CERITANYA
+Sekelompok mahasiswa dari Universitas Brawijaya yang terdiri dari 5 orang, yaitu:
+
+- Akbar Bintang Kusuma-245150307111050
+- Stefanus Evan Anggawardhana-245150307111039
+- M. Dzakwan Ikram-245150301111019
+- Samuel Putra Halomoan Silitonga-245150307111049
+- Lutfi Maulana-245150301111021
+  
+Sedang mengerjakan tugas dari asisten praktikum. Tapi mereka tidak bisa menyelesaikan tugasnya karena tidak bisa mensortir tugas mereka yang sudah selesai dan belum selesai. Mereka membutuhkan sebuah aplikasi untuk membantu mereka dalam mengelola tugas mereka. Mereka membutuhkan aplikasi yang dapat menampilkan daftar tugas yang sudah selesai dan belum selesai, serta dapat menambahkan, mengubah, dan menghapus tugas. Maka dari itu, mereka menyusun rencana agar bisa mengelola tugas mereka secara rapi dan tercatat dengan baik dengan Algoritma Struktur Data menggunakan metode QUEUE. Mereka akan membuat sebuah aplikasi yang dapat membantu mereka dalam mengelola tugas mereka.
+
+---
 ## 🎯 Tujuan Program
 Program Manajemen Tugas Mahasiswa ini dibuat dengan tujuan sebagai berikut:
+
+- Membantu Mahasiswa Mengelola Tugas 
+- Menerapkan Struktur Data Linked List (Queue)
+- Simulasi Sistem Antrian Tugas
+- Meningkatkan Kemampuan Pemrograman Berbasis OOP
+- Pengalaman Mengembangkan Program Interaktif
+    
 ---
-    ▪Membantu Mahasiswa Mengelola Tugas 
-    ▪Menerapkan Struktur Data Linked List (Queue)
-    ▪Simulasi Sistem Antrian Tugas
-    ▪Meningkatkan Kemampuan Pemrograman Berbasis OOP
-    ▪Pengalaman Mengembangkan Program Interaktif
----
+
 ## 🚀 Task Manager Queue (C++)
 
 Aplikasi manajemen tugas berbasis **antrian** yang dibangun dengan bahasa **C++**, memanfaatkan struktur data _linked list_ untuk mengelola tugas berdasarkan ID, prioritas, dan waktu masuk (_FIFO_).

@@ -76,3 +76,5 @@ Jika kamu suka proyek ini, beri bintang ⭐ di GitHub dan bagikan ke temanmu yan
 ```
 > Pastikan Anda mengganti `https://github.com/username/namarepo.git` dengan URL repo Anda sendiri.
 ```
+# *DAN YANG TERAKHIR TERIMA KASIH BANG LAKS DAN BANG KHAI ATAS SEMUA PELAJARAN NYA*
+![Gambar WhatsApp 2025-06-07 pukul 13 29 17_a362b520](https://github.com/user-attachments/assets/683ccf6d-6bce-4add-ba87-6c999820c8b3)

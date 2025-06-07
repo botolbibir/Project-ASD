@@ -31,22 +31,16 @@ Aplikasi manajemen tugas berbasis **antrian** yang dibangun dengan bahasa **C++*
 git clone https://github.com/username/namarepo.git
 cd namarepo
 ```
-2. Kompilasi program
+### 2. Kompilasi program
 ```
-Copy
-Edit
 g++ -o task_manager main.cpp
 ```
-4. Jalankan program
+### 3. Jalankan program
 ```
-Copy
-Edit
 ./task_manager
 ```
-📌 Menu Program
-markdown
-Copy
-Edit
+## 📌 Menu Program
+```
 === MENU MANAJEMEN TUGAS ===
 1. Tambah Tugas
 2. Tampilkan Semua Tugas
@@ -56,33 +50,29 @@ Edit
 6. Tampilkan Tugas Berdasarkan Prioritas
 7. Dequeue (Hapus Tugas Pertama)
 8. Keluar
-📝 Catatan
+```
+
+## 📝 Catatan
 ✅ Prioritas hanya digunakan saat display, bukan untuk urutan di antrian.
 
 ✅ dequeue() selalu menghapus tugas terdepan (sesuai metode FIFO).
 
 ✅ Program akan meminta konfirmasi sebelum keluar setelah setiap aksi.
 
-📷 Screenshot (Opsional)
-Tambahkan screenshot CLI jika ingin tampilkan antarmuka interaktif.
-
-👨‍💻 Author
+## 👨‍💻 Author
 - Lutfi
 - Akbar
 - Evan
 - Ozza
 - Samuel
 
-🛠 Mahasiswa / Developer pemula yang belajar struktur data & algoritma
+### 🛠 Mahasiswa / Developer pemula yang belajar struktur data & algoritma
 
-📄 Lisensi
+##📄 Lisensi
 Bebas digunakan untuk keperluan edukasi, modifikasi, atau pengembangan lanjutan. Tidak diperkenankan untuk dijual tanpa izin.
 
-⭐ Tips
+## ⭐ Tips
 Jika kamu suka proyek ini, beri bintang ⭐ di GitHub dan bagikan ke temanmu yang sedang belajar C++!
 ```
-cpp
-Copy
-Edit
-
 > Pastikan Anda mengganti `https://github.com/username/namarepo.git` dengan URL repo Anda sendiri.
+```

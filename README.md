@@ -30,16 +30,19 @@ Aplikasi manajemen tugas berbasis **antrian** yang dibangun dengan bahasa **C++*
 ```bash
 git clone https://github.com/username/namarepo.git
 cd namarepo
+```
 2. Kompilasi program
-bash
+```
 Copy
 Edit
 g++ -o task_manager main.cpp
-3. Jalankan program
-bash
+```
+4. Jalankan program
+```
 Copy
 Edit
 ./task_manager
+```
 📌 Menu Program
 markdown
 Copy
@@ -76,7 +79,7 @@ Bebas digunakan untuk keperluan edukasi, modifikasi, atau pengembangan lanjutan.
 
 ⭐ Tips
 Jika kamu suka proyek ini, beri bintang ⭐ di GitHub dan bagikan ke temanmu yang sedang belajar C++!
-
+```
 cpp
 Copy
 Edit

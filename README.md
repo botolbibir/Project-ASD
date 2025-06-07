@@ -13,13 +13,13 @@ Maka dari itu, mereka menyusun rencana agar bisa mengelola tugas mereka secara r
 
 ## 🎯 Tujuan Program
 Program Manajemen Tugas Mahasiswa ini dibuat dengan tujuan sebagai berikut:
-`
+---
     ▪Membantu Mahasiswa Mengelola Tugas 
     ▪Menerapkan Struktur Data Linked List (Queue)
     ▪Simulasi Sistem Antrian Tugas
     ▪Meningkatkan Kemampuan Pemrograman Berbasis OOP
     ▪Pengalaman Mengembangkan Program Interaktif
-`
+---
 ## 🚀 Task Manager Queue (C++)
 
 Aplikasi manajemen tugas berbasis **antrian** yang dibangun dengan bahasa **C++**, memanfaatkan struktur data _linked list_ untuk mengelola tugas berdasarkan ID, prioritas, dan waktu masuk (_FIFO_).

@@ -68,7 +68,7 @@ g++ -o task_manager main.cpp
 
 ### 🛠 Mahasiswa / Developer pemula yang belajar struktur data & algoritma
 
-##📄 Lisensi
+## 📄 Lisensi
 Bebas digunakan untuk keperluan edukasi, modifikasi, atau pengembangan lanjutan. Tidak diperkenankan untuk dijual tanpa izin.
 
 ## ⭐ Tips

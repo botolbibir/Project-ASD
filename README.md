@@ -1,7 +1,7 @@
 # PROJECT MANAJEMEN TUGAS 📚
 ---
 Sekelompok mahasiswa dari Universitas Brawijaya yang terdiri dari 5 orang, yaitu:
-
+`
     🔹Akbar Bintang Kusuma-245150307111050
     🔹Stefanus Evan Anggawardhana-245150307111039
     🔹M. Dzakwan Ikram-245150301111019
@@ -13,7 +13,7 @@ Maka dari itu, mereka menyusun rencana agar bisa mengelola tugas mereka secara r
 ---
 ## 🎯 Tujuan Program
 Program Manajemen Tugas Mahasiswa ini dibuat dengan tujuan sebagai berikut:
-
+`
     ▪Membantu Mahasiswa Mengelola Tugas 
     ▪Menerapkan Struktur Data Linked List (Queue)
     ▪Simulasi Sistem Antrian Tugas

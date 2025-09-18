@@ -54,7 +54,7 @@ Aplikasi manajemen tugas berbasis **antrian** yang dibangun dengan bahasa **C++*
 
 ### 1. Clone repositori
 ```bash
-git clone https://github.com/username/namarepo.git
+git clone https://github.com/botolbibir/Project-ASD
 cd namarepo
 ```
 ### 2. Kompilasi program

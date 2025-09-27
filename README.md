@@ -86,11 +86,11 @@ g++ -o task_manager main.cpp
 ✅ Program akan meminta konfirmasi sebelum keluar setelah setiap aksi.
 
 ## 👨‍💻 Author
-- Lutfi
-- Akbar
-- Evan
-- Ozza
-- Samuel
+- *Lutfi* Maulana
+- *Akbar* Bintang Kusuma
+- Stefanus *Evan* Anggawardhana
+- Muhammad Dzakwan ( *Ozza* ) Ikram
+- *Samuel* Putra Halomoan Silitonga
 
 ### 🛠 Mahasiswa / Developer pemula yang belajar struktur data & algoritma
 
@@ -99,8 +99,6 @@ Bebas digunakan untuk keperluan edukasi, modifikasi, atau pengembangan lanjutan.
 
 ## ⭐ Tips
 Jika kamu suka proyek ini, beri bintang ⭐ di GitHub dan bagikan ke temanmu yang sedang belajar C++!
-```
-> Pastikan Anda mengganti `https://github.com/username/namarepo.git` dengan URL repo Anda sendiri.
-```
+
 # *DAN YANG TERAKHIR TERIMA KASIH BANG LAKS DAN BANG KHAI ATAS SEMUA PELAJARAN NYA*
 ![Gambar WhatsApp 2025-06-07 pukul 13 29 17_a362b520](https://github.com/user-attachments/assets/683ccf6d-6bce-4add-ba87-6c999820c8b3)
